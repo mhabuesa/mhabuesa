@@ -2,7 +2,7 @@
 <h1 align="center">I'm Abu Esa</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhabuesa&label=Profile%20views&color=05283d&style=flat-square" alt="mhabuesa" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhabuesa" alt="mhabuesa" /></a> </p>
 
@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **[abuesa.dev@gmail.com](abuesa.dev@gmail.com)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhabuesa&label=Profile%20views&color=05283d&style=flat-square" alt="mhabuesa" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
