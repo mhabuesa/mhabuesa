@@ -6,6 +6,7 @@
 
 ## <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhabuesa" alt="mhabuesa" /></a> </p>
 
+**About me**
  - 🌱 I’m currently learning **Vue.JS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](abuesa.dev/portfolio)
