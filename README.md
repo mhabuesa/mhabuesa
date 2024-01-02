@@ -15,7 +15,7 @@
 - 📫 How to reach me **[abuesa.dev@gmail.com](abuesa.dev@gmail.com)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhabuesa&label=Profile%20views&color=05283d&style=flat-square" alt="mhabuesa" /> </p>
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mhabuesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mhabuesa" height="30" width="40" /></a>
 <a href="https://twitter.com/muhamma_abu_esa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma_abu_esa" height="30" width="40" /></a>
