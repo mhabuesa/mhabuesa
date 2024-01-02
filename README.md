@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PHP, Laravel, Livewire**
 
-- 📫 How to reach me **abuesa.dev@gmail.com**
+- 📫 How to reach me **[abuesa.dev@gmail.com](abuesa.dev@gmail.com)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
